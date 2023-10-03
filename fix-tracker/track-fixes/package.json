@@ -14,9 +14,15 @@
   "contributes": {
     "commands": [
       {
-        "command": "track-fixes.helloWorld",
-        "title": "Hello World"
+        "command": "track-fixes.makeItSo",
+        "title": "MakeItSo"
+      },
+
+      {
+        "command": "track-fixes.timeywimey",
+        "title": "Gimmie The Time"
       }
+
     ]
   },
   "scripts": {
